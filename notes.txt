@@ -1,0 +1,62 @@
+starting react project
+=======================
+(open cmd)
+npx create-react-app my-app
+cd my-app
+npm start
+
+npm i react-router-dom@latest
+
+npm install bootstrap
+
+npm i react-bootstrap
+
+(import to index.js)
+import "bootstrap/dist/css/bootstrap.min.css";
+import "bootstrap/dist/js/bootstrap.bundle.js";
+
+tabs npm= https://www.npmjs.com/package/react-tabs
+
+
+notes=names
+=======
+**Component name should be in PascalCase.
+For example, MyComponent, MyChildComponent etc.
+
+**Attribute name's should be camelCase.
+For example, className, onClick etc.
+
+**Inline styles should be camelCase.
+For example, <div style={{color:'blue',backgroundColor:'black',border: '1px solid',borderRadius:'4px'}}>My Text</div> etc.
+
+**Variable names can be camelCase (Good practice), PascalCase (Avoidable), lowercase, can also contain number and special caracters.
+For example, state = {variable:true, Variable:true, variableName:true} etc.
+
+**Class names can be anything camelCase, PascalCase, lowercase, can also contain number and special caracters, because after all it is a string.
+For example, className="myClass MyClass My_Class my-class" etc.
+
+
+
+lift app reffence=
+=========
+https://liftsearch.co.za/
+https://www.couchsurfing.com/
+innerpg-refer==
+https://www.redbus.in/bus-tickets/bangalore-to-hyderabad?fromCityName=Bangalore&fromCityId=122&toCityName=Hyderabad&toCityId=124&onward=19-May-2022&srcCountry=IND&destCountry=IND&opId=0&busType=Any
+
+refer= https://www.couchsurfing.com/people/abhishek-arumugam
+
+refer= https://earlybirds-co-za.herokuapp.com/trips/mashaba-drive-mamelodi-gauteng-south-africa-to-polokwane-ward-1-polokwane-local-municipality-limpopo-south-africa?
+
+content refer= https://ummigoeswhere.com/first-hitchhiking-experience-india/
+
+sdoc alain==sidebar logo chnge==
+\sdoc_align\www\css\styles.css
+sdoc_align\www\sidebar.html
+images/slide_logo.png
+
+
+
+
+
+
